@@ -1,0 +1,21 @@
+{
+  "name": "rest-municipio-mongo",
+  "version": "1.0.0",
+  "description": "Base de datos para el proyecto de alertas del municipio de ruminahui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "BaseMunicipio"
+  },
+  "keywords": [
+    "node.js",
+    "mongodb",
+    "rest",
+    "alertas"
+  ],
+  "author": "Club de desarrollo de Software ESPE - CMUE- Daniel Arcentales",
+  "license": "ISC"
+}
